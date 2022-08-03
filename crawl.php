@@ -175,5 +175,5 @@ function followLinks($url)
     }
 }
 
-$startUrl = "http://www.reecekenney.com";
+$startUrl = "http://www.BBC.com";
 followLinks($startUrl);
